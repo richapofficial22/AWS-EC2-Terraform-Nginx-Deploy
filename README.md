@@ -140,3 +140,54 @@ output "ami" {
 </html>
 ```
 
+##
+
+# Execution of terraform code
+
+## terraform init
+- <img width="587" height="309" alt="Screenshot 2026-05-18 at 10 55 58 PM" src="https://github.com/user-attachments/assets/70c86288-99ff-4486-a62e-ee54b253aafb" />
+
+## terraform plan
+- <img width="975" height="151" alt="Screenshot 2026-05-18 at 10 56 38 PM" src="https://github.com/user-attachments/assets/00ecfc18-c154-4452-b754-534afb406058" />
+
+## terraform apply
+- <img width="511" height="172" alt="Screenshot 2026-05-18 at 10 57 40 PM" src="https://github.com/user-attachments/assets/441e8538-d317-42bd-8b26-07db9a063b19" />
+- <img width="553" height="101" alt="Screenshot 2026-05-18 at 10 59 14 PM" src="https://github.com/user-attachments/assets/1d3c215e-8eb6-4302-88fd-55bb073ba4c4" />
+
+## EC2 instance created on console
+- <img width="1166" height="678" alt="Screenshot 2026-05-18 at 11 00 30 PM" src="https://github.com/user-attachments/assets/8923f648-e484-44a0-918b-905618958f3e" />
+
+## SSH connection to the ubuntu instance using the public IP
+- <img width="632" height="27" alt="Screenshot 2026-05-18 at 11 02 42 PM" src="https://github.com/user-attachments/assets/e8bbacfc-53dd-4c31-b3d9-36ffa79fed66" />
+
+## Checking index.html file has been copied and nginx version installed in the ubuntu instance 
+- <img width="314" height="139" alt="Screenshot 2026-05-18 at 11 04 06 PM" src="https://github.com/user-attachments/assets/d4830a30-3748-40ad-9333-125f2c4391d7" />
+
+## Copying the public IP of the ubuntu instance on chrome as 'http://65.1.95.226' to check if the webpage is getting hosted or not. 
+- <img width="1440" height="900" alt="Screenshot 2026-05-18 at 11 06 26 PM" src="https://github.com/user-attachments/assets/9b218873-b542-467b-afb7-cac0ca81dff9" />
+
+## Final stage : terraform destroy
+- <img width="514" height="53" alt="Screenshot 2026-05-18 at 11 08 06 PM" src="https://github.com/user-attachments/assets/082fca72-98d5-4f66-9921-35dc056d90d2" />
+
+##
+
+
+
+##
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
