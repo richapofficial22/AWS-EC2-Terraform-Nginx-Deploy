@@ -171,6 +171,16 @@ output "ami" {
 
 ##
 
+Following are the snapshots of the reference from 'Terraform registry' that I used during the creation of the infrastructure as code.
+
+- <img width="691" height="178" alt="Screenshot 2026-05-18 at 7 38 11 PM" src="https://github.com/user-attachments/assets/fe8c0aaa-1d77-4bba-8526-b4378c7b8da3" />
+- <img width="672" height="160" alt="Screenshot 2026-05-18 at 7 31 20 PM" src="https://github.com/user-attachments/assets/47ceb296-c7ee-46fb-b2a2-373de48a6a36" />
+- <img width="682" height="442" alt="Screenshot 2026-05-18 at 7 23 18 PM" src="https://github.com/user-attachments/assets/8b480b54-a95e-4176-be1d-9876f03c00e3" />
+- <img width="679" height="239" alt="Screenshot 2026-05-18 at 7 21 11 PM" src="https://github.com/user-attachments/assets/41dc9d24-8862-4f19-8f59-ad65a6810877" />
+- <img width="687" height="262" alt="Screenshot 2026-05-18 at 6 48 46 PM" src="https://github.com/user-attachments/assets/8f55ac50-62b2-4b55-b095-bbf39a7e96c3" />
+- <img width="670" height="200" alt="Screenshot 2026-05-18 at 6 39 48 PM" src="https://github.com/user-attachments/assets/e72df53b-a90a-46f2-b814-744ccbe93022" />
+- <img width="680" height="660" alt="Screenshot 2026-05-18 at 11 11 09 PM" src="https://github.com/user-attachments/assets/f71efd56-bc0b-4262-932d-ca56728f5e72" />
+
 
 
 ##
