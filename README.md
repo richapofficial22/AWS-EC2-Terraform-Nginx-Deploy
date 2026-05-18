@@ -1,5 +1,17 @@
 # AWS-EC2-Terraform-Nginx-Deploy
 Automated EC2 provisioning and Nginx web server deployment on AWS using Terraform. Covers VPC, subnets, security groups, IGW, and file provisioning via SSH.
+
+<img width="739" height="621" alt="Screenshot 2026-05-18 at 11 16 19 PM" src="https://github.com/user-attachments/assets/448e3a27-ca30-4ed4-b6ca-c6243477189d" />
+
+## What I learned?
+
+Concepts covered :
+- VPC, subnet, IGW, route table — building a network from scratch
+- Security groups — ingress vs egress rules, CIDR blocks
+- Provisioners — file transfer and remote-exec over SSH
+- nohup and process management on Linux
+- terraform fmt, validate, plan, apply, destroy lifecycle
+
 ##
 Mistakes/Errors I made during the project :
  - At first created a separate variables file but on executing plan command it showed error in the aws_instance block mentioning that it is unable to find ami and instance_type. So had to include the variables in the main.tf file itself.
@@ -167,6 +179,7 @@ output "ami" {
 - <img width="1440" height="900" alt="Screenshot 2026-05-18 at 11 06 26 PM" src="https://github.com/user-attachments/assets/9b218873-b542-467b-afb7-cac0ca81dff9" />
 
 ## Final stage : terraform destroy
+   After verification, infrastructure was destroyed to avoid AWS charges.
 - <img width="514" height="53" alt="Screenshot 2026-05-18 at 11 08 06 PM" src="https://github.com/user-attachments/assets/082fca72-98d5-4f66-9921-35dc056d90d2" />
 
 ##
